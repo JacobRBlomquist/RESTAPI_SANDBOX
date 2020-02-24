@@ -1,3 +1,6 @@
 
 #ignore SSL Certs
 certificates/*.pem
+
+#ignore node_modules
+node_modules
